@@ -9,14 +9,18 @@ Thingiverse profile: https://www.thingiverse.com/schraitle
 - Front frame brace: https://www.thingiverse.com/thing:1857991
 - T-corner brace: https://www.thingiverse.com/thing:1672959
 - Centered fan duct: https://www.thingiverse.com/thing:1620630
-
-# Planned upgrades
 - Wingnut knobs: https://www.thingiverse.com/thing:2000216
+  * they really are pretty useful
 - Bed spring washers: https://www.thingiverse.com/thing:1895223
+  * seemed like a waste of time, I'm not sure if they actually make anything better, but they do keep the springs straight
 - Universal spool holder: https://www.thingiverse.com/thing:767317
 - Top mounted spool holder: https://www.thingiverse.com/thing:2162266
+  * a little wobbly, I've read that top mounted spools create instability on the frame so we'll see how it goes. It saves desk space though, so I'm keeping it for now.
 
-# Installed parts
+# Planned upgrades
+- Brace for the Top mounted spool holder: creating myself and will put on thingiverse when ready
+
+# Installed hardware
 - Solid Polymer bearing replacement: https://www.amazon.com/gp/product/B06XPRCMJS/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1
 - MOSFET: https://www.amazon.com/gp/product/B01HEQVQAK/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1
 
