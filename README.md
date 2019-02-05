@@ -19,6 +19,9 @@ Thingiverse profile: https://www.thingiverse.com/schraitle
 
 # Planned upgrades
 - Brace for the Top mounted spool holder: creating myself and will put on thingiverse when ready
+- auto bed leveler - https://www.amazon.com/gp/product/B073XC5T7B/ref=ox_sc_act_title_1?smid=A2VILSBUHD1UD8&psc=1
+  * using https://3dprint.wiki/reprap/anet/a8/improvement/autobedleveling#sensor_support for reference
+  * will require sensor support for extruder: https://www.thingiverse.com/thing:1911146
 
 # Installed hardware
 - Solid Polymer bearing replacement: https://www.amazon.com/gp/product/B06XPRCMJS/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1
