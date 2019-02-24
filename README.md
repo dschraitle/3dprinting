@@ -19,22 +19,25 @@ Thingiverse profile: https://www.thingiverse.com/schraitle
 - Top mounted spool holder: https://www.thingiverse.com/thing:2162266
   * a little wobbly, I've read that top mounted spools create instability on the frame so we'll see how it goes. It saves desk space though, so I'm keeping it for now.
   * it actually moves laterally quite a bit, I tried to make a brace for it but I don't think it's going to help
+- Offset Y Belt Holder - https://www.thingiverse.com/thing:3085862
 
 # Planned upgrades
-- Offset Y Belt Holder - https://www.thingiverse.com/thing:3085862
 - Wall mounted spool holder - creating myself
-- fiber reinforced belts - https://www.amazon.com/gp/product/B071K8HYB4
-- auto bed leveler - https://www.amazon.com/gp/product/B073XC5T7B
-  * using https://3dprint.wiki/reprap/anet/a8/improvement/autobedleveling#sensor_support for reference
-  * will require sensor support for extruder: https://www.thingiverse.com/thing:1911146
-  * also requires a wiring connector which I don't have: https://www.amazon.com/gp/product/B01M28QHF7
-  * and need to rethink the cooling duct because most won't fit anymore due to the sensor support.
+- X cable chain - https://www.thingiverse.com/thing:2104821
+  * noticed that the cable stretching over the top of the frame caused the ABL to misread on the left side, need a solution for cable stretching, cable chain seems good
+  * motor mount doesn't need to have a z endstop, will use this one - https://www.thingiverse.com/thing:2055872
 
 # Installed hardware
 - Solid Polymer bearing replacement: https://www.amazon.com/gp/product/B06XPRCMJS
 - MOSFET: https://www.amazon.com/gp/product/B01HEQVQAK
 - Raspberry Pi 3B+: https://www.amazon.com/gp/product/B07BDR5PDW
   * installed octopi on it: https://octoprint.org/download/
+- fiber reinforced belts - https://www.amazon.com/gp/product/B071K8HYB4
+- auto bed leveler - https://www.amazon.com/gp/product/B073XC5T7B
+  * using https://3dprint.wiki/reprap/anet/a8/improvement/autobedleveling#sensor_support for reference
+  * will require sensor support for extruder: https://www.thingiverse.com/thing:1911146
+  * also requires a wiring connector which I don't have: https://www.amazon.com/gp/product/B01M28QHF7
+  * and need to rethink the cooling duct because most won't fit anymore due to the sensor support.
   
 # Software
 - Modeling: https://www.autodesk.com/products/fusion-360/overview
