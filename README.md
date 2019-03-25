@@ -23,10 +23,6 @@ Thingiverse profile: https://www.thingiverse.com/schraitle
 
 # Planned upgrades
 - Wall mounted spool holder - creating myself
-- X cable chain - https://www.thingiverse.com/thing:2104821
-  * noticed that the cable stretching over the top of the frame caused the ABL to misread on the left side, need a solution for cable stretching, cable chain seems good
-  * motor mount doesn't need to have a z endstop, will use this one - https://www.thingiverse.com/thing:2055872
-
 # Installed hardware
 - Solid Polymer bearing replacement: https://www.amazon.com/gp/product/B06XPRCMJS
 - MOSFET: https://www.amazon.com/gp/product/B01HEQVQAK
@@ -44,8 +40,13 @@ Thingiverse profile: https://www.thingiverse.com/schraitle
   * free for hobbyists, tons of youtube videos and tutorials online 
 - Slicing: https://ultimaker.com/en/products/ultimaker-cura-software
 - Marlin: http://marlinfw.org/
-  * using the a8 example configuration with auto bed leveling set with the PROBE_MANUALLY flag
+  * using the a8 example configuration with auto bed leveling
 
 # Unused upgrades
 - Filament guide: https://www.thingiverse.com/thing:1764285
   * I printed it draft, and it was very scratchy sounding while filament was going through so I took it off. I also didn't like how filament could get stuck in the gap for loading filament into the loop.
+- X cable chain - https://www.thingiverse.com/thing:2104821
+  * noticed that the cable stretching over the top of the frame caused the ABL to misread on the left side, need a solution for cable stretching, cable chain seems good
+    - abandoned the cable chain, it was flexing the ABL cable too much and causing inconsistent leveling. I'll look further into better ways to hang the cable over the top of the frame
+  * motor mount doesn't need to have a z endstop, will use this one - https://www.thingiverse.com/thing:2055872
+
