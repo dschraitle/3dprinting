@@ -20,6 +20,7 @@ Thingiverse profile: https://www.thingiverse.com/schraitle
   * a little wobbly, I've read that top mounted spools create instability on the frame so we'll see how it goes. It saves desk space though, so I'm keeping it for now.
   * it actually moves laterally quite a bit, I tried to make a brace for it but I don't think it's going to help
 - Offset Y Belt Holder - https://www.thingiverse.com/thing:3085862
+- X Belt Holder - https://www.thingiverse.com/thing:2016779
 
 # Planned upgrades
 - Wall mounted spool holder - creating myself
