@@ -15,15 +15,13 @@ Thingiverse profile: https://www.thingiverse.com/schraitle
 - Bed spring washers: https://www.thingiverse.com/thing:1895223
   * seemed like a waste of time, I'm not sure if they actually make anything better, but they do keep the springs straight
 - Extruder button: https://www.thingiverse.com/thing:1935151
-- Universal spool holder: https://www.thingiverse.com/thing:767317
-- Top mounted spool holder: https://www.thingiverse.com/thing:2162266
-  * a little wobbly, I've read that top mounted spools create instability on the frame so we'll see how it goes. It saves desk space though, so I'm keeping it for now.
-  * it actually moves laterally quite a bit, I tried to make a brace for it but I don't think it's going to help
 - Offset Y Belt Holder - https://www.thingiverse.com/thing:3085862
 - X Belt Holder - https://www.thingiverse.com/thing:2016779
+- X Cable Guide - https://www.thingiverse.com/thing:3852355
+- Scrap Catch Tray - https://www.prusaprinters.org/prints/17835-anet-a8-scrap-catch-tray
 
 # Planned upgrades
-- Wall mounted spool holder - creating myself
+
 # Installed hardware
 - Solid Polymer bearing replacement: https://www.amazon.com/gp/product/B06XPRCMJS
 - MOSFET: https://www.amazon.com/gp/product/B01HEQVQAK
@@ -35,6 +33,11 @@ Thingiverse profile: https://www.thingiverse.com/schraitle
   * will require sensor support for extruder: https://www.thingiverse.com/thing:1911146
   * also requires a wiring connector which I don't have: https://www.amazon.com/gp/product/B01M28QHF7
   * and need to rethink the cooling duct because most won't fit anymore due to the sensor support.
+- PEI bed surface - https://www.amazon.com/dp/B07695DLL9/
+  * Initial concern was that the extra thickness would interfere with bed leveling. It isn't an issue though, and leveling still works great.
+- Wall mounted spool holder
+  * Made from a closet rod set from Home Depot, holds a bunch of spools and works great.
+  * Custom printed endcaps for the pipes so that the spools can't fall off.
   
 # Software
 - Modeling: https://www.autodesk.com/products/fusion-360/overview
@@ -50,4 +53,8 @@ Thingiverse profile: https://www.thingiverse.com/schraitle
   * noticed that the cable stretching over the top of the frame caused the ABL to misread on the left side, need a solution for cable stretching, cable chain seems good
     - abandoned the cable chain, it was flexing the ABL cable too much and causing inconsistent leveling. I'll look further into better ways to hang the cable over the top of the frame
   * motor mount doesn't need to have a z endstop, will use this one - https://www.thingiverse.com/thing:2055872
+- Universal spool holder: https://www.thingiverse.com/thing:767317
+- Top mounted spool holder: https://www.thingiverse.com/thing:2162266
+  * a little wobbly, I've read that top mounted spools create instability on the frame so we'll see how it goes. It saves desk space though, so I'm keeping it for now.
+  * it actually moves laterally quite a bit, I tried to make a brace for it but I don't think it's going to help
 
