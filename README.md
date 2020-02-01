@@ -19,6 +19,8 @@ Thingiverse profile: https://www.thingiverse.com/schraitle
 - X Belt Holder - https://www.thingiverse.com/thing:2016779
 - X Cable Guide - https://www.thingiverse.com/thing:3852355
 - Scrap Catch Tray - https://www.prusaprinters.org/prints/17835-anet-a8-scrap-catch-tray
+- Z Height Jig - https://www.thingiverse.com/thing:2538266
+  * useful to use every once in a while to make sure the gantry is level
 
 # Planned upgrades
 
