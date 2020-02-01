@@ -38,6 +38,7 @@ Thingiverse profile: https://www.thingiverse.com/schraitle
 - Wall mounted spool holder
   * Made from a closet rod set from Home Depot, holds a bunch of spools and works great.
   * Custom printed endcaps for the pipes so that the spools can't fall off.
+    * https://www.prusaprinters.org/prints/20110-closet-rod-endcap
   
 # Software
 - Modeling: https://www.autodesk.com/products/fusion-360/overview
