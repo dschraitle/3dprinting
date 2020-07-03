@@ -26,6 +26,7 @@ Thingiverse profile: https://www.thingiverse.com/schraitle
 - Slicing: https://ultimaker.com/en/products/ultimaker-cura-software
 - Marlin: http://marlinfw.org/
   * using the a8 example configuration with auto bed leveling set with the PROBE_MANUALLY flag
+- Klipper: installed Klipper and am using the config file in klipper/printer.cfg
 
 # Unused upgrades
 - Filament guide: https://www.thingiverse.com/thing:1764285
